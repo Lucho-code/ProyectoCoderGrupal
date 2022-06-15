@@ -20,6 +20,6 @@ Tenemos pagina de "Crear Receta 7a10": http://127.0.0.1:8000/recetas/crear-recet
 
 En cada pagina para crear se encuentras lo campos correspondientes para poder cargar los datos y guardar la receta.
 
-Lucio y Lucia crearon la app de base
-Lucia creo los models, views y templates 
+Lucio y Lucia crearon la app de base,
+Lucia creo los models, views y templates, 
 Manuel creo los y mejoró los codigos de las views creando los cruds junto a sus templates correspondientes. 
