@@ -22,4 +22,4 @@ En cada pagina para crear se encuentras lo campos correspondientes para poder ca
 
 Lucio y Lucia crearon la app de base,
 Lucia creo los models, views y templates, 
-Manuel creo los y mejoró los codigos de las views creando los cruds junto a sus templates correspondientes. 
+Manuel creo los form y mejoró los codigos de las views creando los cruds junto a sus templates correspondientes. 
